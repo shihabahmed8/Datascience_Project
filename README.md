@@ -50,9 +50,9 @@ Price_per_SqM: Price divided by size (when available).
 .Ensured all features were ready for further analysis or modeling.
 
 ### 4. Modeling Approach (if applicable)
-.(Optional) Built simple regression models to predict price or price per square meter based on available features.
+.(Optional) Built simple regression models to predict price based on available features.
 
-.Evaluated model performance using standard metrics.
+.Evaluated model performance using standard metrics, with R2: 0.86
 
 ### Usage
 Run the Jupyter notebook(s) to reproduce the scraping, cleaning, and feature engineering steps.
